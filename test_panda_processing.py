@@ -6,7 +6,7 @@ Created on Mon Sep 19 19:28:27 2022
 """
 
 import pandas as pd
-emailcategory = pd.read_csv('email_set (1).csv')
+emailcategory = pd.read_csv('email_set.csv')
 
 from io import StringIO
 import csv
