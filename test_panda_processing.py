@@ -30,7 +30,7 @@ emailcategory['subject']= emailcategory['subject'].replace('\n',' ', regex=True)
 
 emailcategory.to_csv(r'email_set_labelled.txt', index=False, sep=' ', header=False, quoting=csv.QUOTE_NONE, quotechar="", escapechar=" ")
 
-model = fasttext.train_supervised('email_set_labelled.txt')
+model = fasttext.train_supervised('email_set_labelled.txt',epoch=25)
 
 test_hasil=model.predict('indihome',k=1,threshold=0.0,on_unicode_error='strict')
 #print(test_hasil)
