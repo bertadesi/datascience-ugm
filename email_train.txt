@@ -1,0 +1,151 @@
+__label__tax selamat  pembayaran  tagihan  pbb  anda  berhasil
+__label__health_insurance selamat  pembayaran  kesehatan  anda  berhasil
+__label__public_utilities selamat  pembayaran  tagihan  air  anda  berhasil
+__label__health_insurance selamat  pembayaran  kesehatan  anda  berhasil
+__label__credit_card selamat  pembayaran  tagihan  kartu  kredit  anda  berhasil
+__label__public_utilities selamat  pembayaran  tagihan  air  anda  berhasil
+__label__shopping pembayaran  untuk  order    telah  kami  terima
+__label__health_insurance selamat  pembayaran  kesehatan  anda  berhasil
+__label__credit_card selamat  pembayaran  tagihan  kartu  kredit  anda  berhasil
+__label__public_utilities selamat  pembayaran  tagihan  air  anda  berhasil
+__label__health_insurance selamat  pembayaran  kesehatan  anda  berhasil
+__label__public_utilities selamat  pembayaran  tagihan  air  anda  berhasil
+__label__comm_internet selamat  pembayaran  tagihan  pascabayar  anda  berhasil
+__label__shopping konfirmasi  pembayaran  atas  pesanan  
+__label__shopping pembayaran  tiket  penerbangan  berhasil  invoice  id  
+__label__shopping konfirmasi  pembayaran  atas  pesanan  
+__label__shopping konfirmasi  pembayaran  atas  pesanan  
+__label__shopping pembayaran  tiket  penerbangan  berhasil  invoice  id  
+__label__shopping pembayaran  untuk  order    telah  kami  terima
+__label__shopping pembayaran  tiket  penerbangan  berhasil  invoice  id  
+__label__shopping pembayaran  untuk  order    telah  kami  terima
+__label__shopping konfirmasi  pembayaran  atas  pesanan  
+__label__shopping konfirmasi  pembayaran  atas  pesanan  
+__label__shopping konfirmasi  pembayaran  atas  pesanan  
+__label__shopping konfirmasi  pembayaran  atas  pesanan  
+__label__shopping konfirmasi  pembayaran  atas  pesanan  
+__label__shopping airy  pembayaran  anda  berhasil    no  pesanan  
+__label__shopping konfirmasi  pembayaran  atas  pesanan  
+__label__shopping pembayaran  tokocash  anda  pada  tanggal  telah  kami  batalkan
+__label__shopping pembayaran  klikbca  anda  pada  tanggal    telah  kami  batalkan
+__label__credit_card pembayaran  kartu  kredit  sukses  
+__label__shopping konfirmasi  pembayaran  atas  pesanan  
+__label__shopping konfirmasi  pembayaran  atas  pesanan  
+__label__shopping pembayaran  pesanan    di  bhinnekacom
+__label__shopping konfirmasi  pembayaran  atas  pesanan  
+__label__shopping konfirmasi  pembayaran  atas  pesanan  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__loan selamat  pembayaran  layanan  finansial  mandiri  utama  finance  anda  berhasil  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__tax selamat  pembayaran  tagihan  pbb  anda  berhasil  
+__label__loan selamat  pembayaran  layanan  finansial  mandiri  utama  finance  anda  berhasil  
+__label__shopping konfirmasi  penerimaan  pembayaran  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__loan selamat  pembayaran  layanan  finansial  mandiri  utama  finance  anda  berhasil  
+__label__loan selamat  pembayaran  layanan  finansial  mandiri  utama  finance  anda  berhasil  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__loan selamat  pembayaran  layanan  finansial  mandiri  utama  finance  anda  berhasil  
+__label__shopping pembayaran  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__loan selamat  pembayaran  layanan  finansial  mandiri  utama  finance  anda  berhasil  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__loan selamat  pembayaran  layanan  finansial  mandiri  utama  finance  anda  berhasil  
+__label__shopping pembayaran  pesanan  775455088728618  telah  kami  terima  
+__label__loan selamat  pembayaran  layanan  finansial  mandiri  utama  finance  anda  berhasil  
+__label__shopping pembayaran  pesanan  758257063328618  telah  kami  terima  
+__label__shopping pembayaran  pesanan  756933436128618  telah  kami  terima  
+__label__shopping pembayaran  pesanan  759890146828618  telah  kami  terima  
+__label__shopping pembayaran  pesanan  748157352728618  telah  kami  terima  
+__label__shopping pembayaran  pesanan  742026895628618  telah  kami  terima  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__comm_internet konfirmasi  pembayaran  tagihan  indihome  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__comm_internet reminding  pembayaran  indihome  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  stf3s8m  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__shopping pembayaran  10143754700001  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  zkm3rp9  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  byr38zv  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  wcj3r9n  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__health_insurance selamat  pembayaran  bpjs  kesehatan  anda  berhasil  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  br0393e  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  4bj3b9f  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  wap20dr  
+__label__shopping pembayaran  kamu  telah  diterima  348728131728618  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  492269n  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  n7q2t35  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__shopping pembayaran  pesanan  berhasil  diverifikasi  310309078328618  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__shopping pembayaran  pesanan  berhasil  diverifikasi  305131064928618  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__shopping pembayaran  pesanan  berhasil  diverifikasi  296378007228618  
+__label__shopping pembayaran  pesanan  berhasil  diverifikasi  291546003128618  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__shopping konfirmasi  pembayaran  atas  pesanan  190530221318e3g    lainnya  
+__label__shopping pembayaran  pesanan  berhasil  diverifikasi  274387512328618  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__shopping pembayaran  pesanan  berhasil  diverifikasi  270442953828618  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__shopping re  pembayaran  semester  2  
+__label__shopping fwd  pembayaran  semester  2  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__loan selamat  pembayaran  layanan  finansial  suzuki  finance  indonesia  anda  berhasil  
+__label__shopping pembayaran  semester  2  
+__label__shopping pembayaran  pesanan  berhasil  diverifikasi  230630480428618  
+__label__shopping pembayaran  sukses    maries  oil  colour  21ml    bukalapak  
+__label__shopping terima  kasih  atas  pembayaran  anda    periplus  online  bookstore    251891  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  33raj5  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  tevphp  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  4a1k6w  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  mqfl5g  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  42bu8m  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  uq1532  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  mhj3dq  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  cd7zh7  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  4atfu2  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  qwmdsp  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  ppprve  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  c4f9vy  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  1ffqyl  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  fwm7br  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  xxwj36  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  p7bvhb  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  rqckyt  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  rurfne  
+__label__shopping bukti  pembayaran  transaksi  pt  kai  persero  z3blmj  
