@@ -24,7 +24,7 @@ print("Sum of Transaction = ", Sum_Amount)
  
  
 #Visulizing Data using Matplotlib
-plt.bar(Detail_Category, Sum_Amount)
+plt.barh(Detail_Category, Sum_Amount)
 plt.xlabel("Label of Categories")
 plt.ylabel("Sum of Amount")
 plt.title("Total Expense Spent")
