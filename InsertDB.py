@@ -8,7 +8,7 @@ Created on Wed Sep 21 12:22:09 2022
 import mysql.connector
 
 
-db=mysql.connector.connect(user="datascience_ugm",passwd="Neverlookback5%",host="db4free.net",database='datascience_ugm')
+db=mysql.connector.connect(user="datascience_ugm",passwd=,host="db4free.net",database='datascience_ugm')
 
 my_cursor=db.cursor()
 
