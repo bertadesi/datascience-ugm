@@ -171,7 +171,7 @@ def parse_parts(service, parts, message):
                         if(search("ZALORA",message)):
                             posisi = data.index('Total')
                             value=(data[posisi+4])
-                            result=['Clothing&Beauty',value]
+                            result=['Shopping',value]
                             
                             
                         if(search("Pascabayar",message)):
